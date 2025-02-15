@@ -1,0 +1,110 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+    
+}
+nav{
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    font-size: 25px;
+
+}
+nav a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+nav a:hover{
+    text-shadow: 3px 3px 5px black;
+    text-decoration: underline;
+    
+}
+
+.Top{
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 75px;
+}
+.Explore{
+    background-color: lightblue;
+}
+.Home{
+    background-image: url(option.jpg);
+    background-repeat: no-repeat;
+}
+p{
+   
+    margin: 0;
+    text-align: center;
+    font-size: larger;
+}
+.button {
+    display: inline-block;
+    padding: 10px 30px; 
+    font-size: 16px; 
+    color: black; 
+    
+    text-decoration: none; 
+    border-radius: 5px;
+    
+    
+    text-align: center; 
+}
+
+.button:hover {
+    background-color: #0056b3;
+    text-decoration: underline;
+}
+.INDIA{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    
+}
+p1{
+    margin: 0;
+    font-size: 30px;
+
+}
+.back{
+   text-align: center;
+}
+.back:hover
+{
+    color: blue;
+}
+a{
+    margin-bottom: 30px;
+}
+
+.About{
+    background-color: #ADD8E6;
+    
+}
+p2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+#About{
+    margin-bottom: 100px;
+}
+
+.nav about{
+    text-decoration: none;
+    margin-left: 20px;
+    background-color: black;
+}
+.nav about:hover{
+    text-shadow: 3px 3px 5px black;
+    text-decoration: underline;
+}
+h2{
+    color: black; 
+    margin-bottom: 250px;
+}
+p3 a{
+    color: black;
+    margin-left: 40px;
+}
